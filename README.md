@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 17/09/26
-## Register Number: 212225230013
-## Name: AMIRDAVARSHINI D
+# Date: 18/09/26
+## Register Number: 212225230083
+## Name: GOPIKA DHARSHINI.N
 
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
